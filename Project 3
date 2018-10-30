@@ -1,0 +1,2 @@
+import math
+print("square root of 82 is: % f "%math.sqrt(82))
